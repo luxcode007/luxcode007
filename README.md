@@ -1,16 +1,15 @@
-### Hi there 👋
+# Howdy, I'm Eddie 😁 #
 
-<!--
-**luxcode007/luxcode007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a passionate and driven full stack developer taking on new challenges
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 🛠 I’m building a React Native app for iOS & Android with a distributed team of 5
+  - 🌱 I’m learning: Next.JS, Advanced React, Java & Firebase!
+  - ⛓ I'm enrolled in Alchemy University's Ethereum program
+  - 💬 Ask me anything about my projects, bootcamp or self learning experiences!
+  - 📨 Reach me at: edwsaviano@gmail.com
+  
+  - 🎨 Fun fact: I love art! I draw and make digital illustrations in my spare time
+  
+  - 📖 My favorite sci-fi book is Dune, my favorite fantasy book is The Hobbit
+  
+  - 🤝 I want to collaborate on new React projects!
