@@ -1,15 +1,14 @@
-# Howdy, I'm Eddie 😁 #
+# Hi, I'm Edward #
+📨 Email: edwsaviano@gmail.com
 
-a passionate and driven full stack developer taking on new challenges
+Open minded and driven developer building API-integrated webapps & discord bots
 
-  - 🛠 I’m building a React Native app for iOS & Android with a distributed team of 5
-  - 🌱 I’m learning: Next.JS, Advanced React, Java & Firebase!
+  - 🛠 I’m building web3 webapps and discord bots
+  - 🌱 I’m learning React
   - ⛓ I'm enrolled in Alchemy University's Ethereum program
-  - 💬 Ask me anything about my projects, bootcamp or self learning experiences!
-  - 📨 Reach me at: edwsaviano@gmail.com
+  - 💬 Ask me anything about my projects and bootcamp experiences!
+ 
   
   - 🎨 Fun fact: I love art! I draw and make digital illustrations in my spare time
   
-  - 📖 My favorite sci-fi book is Dune, my favorite fantasy book is The Hobbit
-  
-  - 🤝 I want to collaborate on new React projects!
+  - 🤝 I want to collaborate on front-end webapp projects!
