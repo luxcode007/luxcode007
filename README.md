@@ -1,7 +1,7 @@
 # Edward Saviano #
 📨 Email: edwsaviano@gmail.com
 
-Currently building a react-native app for iOS for a quote exploration user-integrated app. 
+Currently building a react-native app for iOS: a quote discovery user-integrated app. 
 
   - 🛠 I love web development & iOS. I want to code for web3.
   - 🌱 I’m learning Solidity & Ruby
