@@ -1,4 +1,4 @@
-# Eddie Saviano #
+# Edward Saviano #
 📨 Email: edwsaviano@gmail.com
 
 Currently building a react-native app for iOS for a quote exploration user-integrated app. 
