@@ -1,5 +1,6 @@
 # Edward Saviano #
 📨 Email: edwsaviano@gmail.com
+
 Key experience: JaveScript, Python, React-Native, React, Firebase, AWS, Expo-Go
 
 Currently building a react-native app for iOS: a quote discovery user-integrated app.
