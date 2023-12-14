@@ -1,14 +1,22 @@
 # Edward Saviano #
+💬 Python Full-stack boot camp graduate. 
+Now self-learning coder building personal projects.
+I want to build for web3.
 📨 Email: edwsaviano@gmail.com
 
-Key experience: JaveScript, Python, React-Native, React, Firebase, AWS, Expo-Go
+Favorite Language: Python, but I don't use it as much as I should, as most of the projects I'm building use Javascript stacks. 
 
-Currently building a react-native app for iOS: a quote discovery user-integrated app.
+🌱Fun fact! I'm learning Rust for Solana & Solidity for Ethereum. 
 
-  - 🛠 I love web development & iOS. I want to code for web3.
-  - 🌱 I’m learning Solidity with Alchemy University & Ruby with The Odin Project
-  - 💬 Python Full-stack boot camp graduate. Now self-learning and building personal projects (iOS, web).
- 
-  
-  - 🎨 Fun Fact: I love art & kickboxing.
+ 🛠 Experience:
+JaveScript, React
+Python Flask
+Firebase, AWS
+
+Mobile:
+React-Native, Expo-Go
+
+Recently built an iOS Stoic quote discovery/randomization app. To be improved.
+
+Currently building a web3 news hub. 
   
